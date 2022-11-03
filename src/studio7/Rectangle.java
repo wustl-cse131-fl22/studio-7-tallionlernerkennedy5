@@ -69,12 +69,7 @@ public class Rectangle {
 		{
 			return false;
 		}
-	}
-
-
-
-
- 
+	} 
 	public static void main(String[]args)
 	{
 		Rectangle r1 = new Rectangle(18, 20.5);
